@@ -1,0 +1,2 @@
+Esse é meu primeiro documento com Git
+ com teste em commit
